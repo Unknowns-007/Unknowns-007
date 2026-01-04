@@ -27,13 +27,6 @@ A creative mind dedicated to building immersive digital experiences. I balance t
 ---
 
 
-### 🌌 Contribution Journey
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unknowns-007&theme=dracula&color=A855F7&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
 ### 🤝 Connect & Collaborate
 <p align="center">
   <a href="https://vigneshr.me" target="_blank">
